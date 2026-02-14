@@ -1,5 +1,3 @@
-# Hi, I'm [Dein Name]! 🕹️
-
 I'm a hobbyist developer and a full-time professional in a non-tech field. When I'm not spending time with my two kids, you’ll find me deep in code, exploring the world of **Game Development** and **Modding**.
 
 ### 🚀 What I'm working on
